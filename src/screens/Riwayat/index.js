@@ -40,21 +40,21 @@ const Main = () => {
             style={home.icon}
           />
           <View style={{ flexDirection: 'row', flex: 1, justifyContent: 'space-between', alignItems: 'center' }}>
-            <Text style={{ color: 'black', fontSize: 16, fontWeight: 'bold', paddingLeft: 10, }}>ITN Kampus 2</Text>
-            <Text style={{ color: 'black', fontSize: 14 }}>Rp18.000</Text>
+            <Text style={{ color: 'black', fontSize: 16, fontWeight: 'bold', paddingLeft: 10, }}>Kost 279</Text>
+            <Text style={{ color: 'black', fontSize: 14 }}>Rp20.000</Text>
           </View>
         </View>
       </View>
       <View style={{ paddingHorizontal: 20, marginTop: 20, }}>
-        <Text style={{ color: 'black', fontSize: 14, }}>24 Oktober, 2023</Text>
+        <Text style={{ color: 'black', fontSize: 14, }}>12 Oktober, 2023</Text>
         <View style={{ flexDirection: 'row', alignItems: 'center' }}>
           <Image
             source={scooter}
             style={home.icon}
           />
           <View style={{ flexDirection: 'row', flex: 1, justifyContent: 'space-between', alignItems: 'center' }}>
-            <Text style={{ color: 'black', fontSize: 16, fontWeight: 'bold', paddingLeft: 10, }}>Mall Olympics Garden</Text>
-            <Text style={{ color: 'black', fontSize: 14 }}>Rp25.000</Text>
+            <Text style={{ color: 'black', fontSize: 16, fontWeight: 'bold', paddingLeft: 10, }}>Kebab Bosman</Text>
+            <Text style={{ color: 'black', fontSize: 14 }}>Rp100.000</Text>
           </View>
         </View>
       </View>
